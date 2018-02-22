@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textViewPaddingBottom">8dp</dimen>
+    <dimen name="left_RightMargin">22dp</dimen>
+    <dimen name="generalPadding">12dp</dimen>
+    <dimen name="resetBottomMargin">24dp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="goalTextSize">45sp</dimen>
+</resources>
